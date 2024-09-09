@@ -4,11 +4,11 @@ Este repositorio contiene la lógica del backend y frontend para la prueba de co
 
 ## Proyectos
 
-### 1. [Backend](scrum-impediment-detector/README.md)
+### 1. [Backend](scrum-impediment-detector)
 
 El Proyecto A es una aplicación web diseñada para facilitar la planificación y seguimiento de sprints en equipos Scrum.
 
-### 2. [Frontend](scrum-impediment-visualizer/README.md)
+### 2. [Frontend](scrum-impediment-visualizer)
 
 El Proyecto B es una herramienta de análisis y visualización de datos para equipos Scrum.
 
