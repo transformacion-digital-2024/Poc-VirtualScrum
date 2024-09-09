@@ -6,7 +6,7 @@ Este repositorio contiene la lógica del backend y frontend para la prueba de co
 
 ### 1. [Backend](scrum-impediment-detector)
 
-El Proyecto A es una aplicación web diseñada para facilitar la planificación y seguimiento de sprints en equipos Scrum.
+Esta carpeta contiene toda la logica frontend del scrum virtual
 
 ### 2. [Frontend](scrum-impediment-visualizer)
 
