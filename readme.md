@@ -2,7 +2,7 @@
 
 Este repositorio contiene la lógica del backend y frontend para la prueba de concepto (PoC) de Virtual Scrum. Para más información sobre cada apartado, consulta los README específicos.
 
-## Proyectos
+## Backend y Frontend
 
 ### 1. [Backend](scrum-impediment-detector)
 
