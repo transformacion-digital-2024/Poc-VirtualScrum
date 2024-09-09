@@ -6,11 +6,11 @@ Este repositorio contiene la lógica del backend y frontend para la prueba de co
 
 ### 1. [Backend](scrum-impediment-detector)
 
-Esta carpeta contiene toda la logica frontend del scrum virtual
+Esta carpeta contiene toda la lógica del backend para el scrum virtual.
 
 ### 2. [Frontend](scrum-impediment-visualizer)
 
-El Proyecto B es una herramienta de análisis y visualización de datos para equipos Scrum.
+Esta carpeta contiene toda la lógica del frontend para el scrum virtual.
 
 ## Contribuciones
 
