@@ -100,6 +100,6 @@ Respuesta exitosa:
 
 Si deseas contribuir al proyecto, por favor crea un fork del repositorio, realiza tus cambios en una nueva rama y envía un pull request.
 
-## Licencia
+# Notas Genenales
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Además, en la carpeta `docs` encontrarás un documento de especificación de requerimientos que contiene todos los detalles de lo que construimos en la Fase 2 y 3 del proyecto. Este documento está disponible en formato Word, e incluye tanto los diagramas en formato gráfico como en lenguaje Mermaid o PlantUML.
