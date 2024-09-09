@@ -1,14 +1,14 @@
 # Proyecto Virtual Scrum
 
-Este repositorio contiene dos proyectos principales relacionados con la gestión de proyectos utilizando la metodología Scrum. Para más información sobre cada proyecto, consulta los README específicos.
+Este repositorio contiene la lógica del backend y frontend para la prueba de concepto (PoC) de Virtual Scrum. Para más información sobre cada apartado, consulta los README específicos.
 
 ## Proyectos
 
-### 1. [scrum-impediment-detector](scrum-impediment-detector/README.md)
+### 1. [Backend](scrum-impediment-detector/README.md)
 
 El Proyecto A es una aplicación web diseñada para facilitar la planificación y seguimiento de sprints en equipos Scrum.
 
-### 2. [scrum-impediment-visualizer](scrum-impediment-visualizer/README.md)
+### 2. [Frontend](scrum-impediment-visualizer/README.md)
 
 El Proyecto B es una herramienta de análisis y visualización de datos para equipos Scrum.
 
